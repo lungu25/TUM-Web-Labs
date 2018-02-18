@@ -1,69 +1,79 @@
 <html> 
     <head>      
         <!-- Latest compiled and minified CSS -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/shop-homepage.css" rel="stylesheet">
+
     </head>
     <body>  
+     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
-
-      <!-- The justified navigation menu is meant for single line per list item.
-           Multiple lines will require custom code not provided by Bootstrap. -->
-      <div class="masthead">
-        <h3 class="text-muted">Project name</h3>
-        
-        
-        
-        <nav class="navbar navbar-default">
-<!--         <div class="container-fluid">
-
-            <div class="navbar-header">
-              <a class="navbar-brand" href="#">WebSiteName</a>
-            </div>
--->
-            <ul class="nav navbar-nav">
-             <li class="active"><a href="#">Home</a></li>
-            <li><a href="tablet.html">Tablets</a></li>
-            <li><a href="smartphone.html">Smartphones</a></li>
-          <!-- ABOUT PAGEE <li><a href="About.html">About</a></li> -->
-            <li><a href="contact.html">Contact</a></li>
-            </ul>
-<!--          </div>-->
-        </nav>
-        
-        
+        <a class="navbar-brand" href="#">LShop</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="index.html">Home
+                <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="tablet.html">Tablets</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="smartphone.html">Smartphones</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact.html">Contact</a>
+            </li>
+            
+          </ul>
+        </div>
       </div>
+    </nav>
+
+    <!-- Page Content -->
+    
+        <!-- /.col-lg-3 -->
 
       <!-- Jumbotron -->
       <div class="jumbotron">
-        <h1>Marketing stuff!</h1>
-        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.</p>
+        <h1>Best deal today !</h1>
+        <p class="lead">Prove that you are a student at TUM, and you will get 15% discount for all products. If you are a FAF student, your costs will be reduced by 30%.</p>
         <p><a class="btn btn-lg btn-warning" href="#" role="button">Get started today</a></p>
       </div>
 
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-lg-4">
-          <h2>Safari bug warning!</h2>
-          <p class="text-danger">As of v9.1.2, Safari exhibits a bug in which resizing your browser horizontally causes rendering errors in the justified nav that are cleared upon refreshing.</p>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
+          <h2>Best deals on Tablets</h2>
+          <p class="text-danger">New iPad pro 256GB at 15% discount.</p>
+          <p>Best offers for students at iPad's </p>
+          <p><a class="btn btn-primary" href="tablet.html" role="button">View details &raquo;</a></p>
         </div>
-        <div class="col-lg-4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
-       </div>
-        <div class="col-lg-4">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
-          <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
+         <div class="col-lg-4">
+          <h2>Refubrished iPad/iPhones</h2>
+          <p class="text-danger">Get an brand new iPhone or iPad, refubrished and certificated by apple at 40% discount</p>
+          <p>Best offers for every one who want an apple iPad or iPhone. </p>
+          <p><a class="btn btn-primary" href="tablet.html" role="button">View details &raquo;</a></p>
+        </div>
+         <div class="col-lg-4">
+          <h2>Best deals on iPhone's</h2>
+          <p class="text-danger">New iPhone X 256GB at 10% discount.</p>
+          <p>Best offers for students at iPhone's</p>
+          <p><a class="btn btn-primary" href="smartphone.html" role="button">View details &raquo;</a></p>
         </div>
       </div>
 
       <!-- Site footer -->
-      <footer class="footer">
-        <p>&copy; 2016 Company, Inc.</p>
-      </footer>
+       <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Lungu Mihai FAF-161 2018</p>
+      </div>
+      <!-- /.container -->
+    </footer>
 
     </div> <!-- /container -->
 
