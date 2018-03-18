@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "_NavBar";
+}
+
+@using System.Web.Optimization
+
+<div class="container">
+    <a class="navbar-brand" href="#">LShop</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+            <li>
+                @Html.ActionLink("Home", "Index", "Home", new { area = "Home" }, null)
+            </li>
+            <li class="nav-item">
+                @Html.ActionLink("Tablet", "Tablet", "Home", new { area = "Tablet" }, null)
+            </li>
+            <li class="nav-item">
+                @Html.ActionLink("Smartphone", "Smartphone", "Home", new { area = "Smartphone" }, null)
+            </li>
+            <li class="nav-item">
+                @Html.ActionLink("Contact", "Contact", "Home", new { area = "Contact" }, null)
+            </li>
+
+        </ul>
+    </div>
+</div>
+
