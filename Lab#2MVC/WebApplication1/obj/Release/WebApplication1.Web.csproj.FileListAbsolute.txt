@@ -25,3 +25,4 @@
 /Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/obj/Release/WebApplication1.Web.csproj.CoreCompileInputs.cache
 /Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/obj/Release/WebApplication1.dll
 /Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/obj/Release/WebApplication1.pdb
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/obj/Release/WebApplication1.Web.csprojResolveAssemblyReference.cache

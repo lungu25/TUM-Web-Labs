@@ -1,0 +1,11 @@
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication.BusinessLogic\bin\Debug\WebApplication.BusinessLogic.dll.config
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication.BusinessLogic\bin\Debug\WebApplication.BusinessLogic.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication.BusinessLogic\bin\Debug\WebApplication.BusinessLogic.pdb
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication.BusinessLogic\obj\Debug\WebApplication1.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication.BusinessLogic\obj\Debug\WebApplication1.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication.BusinessLogic\obj\Debug\WebApplication.BusinessLogic.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication.BusinessLogic\obj\Debug\WebApplication.BusinessLogic.pdb

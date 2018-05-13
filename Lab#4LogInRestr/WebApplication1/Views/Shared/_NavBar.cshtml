@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewBag.Title = "_NavBar";
+}
+
+@using System.Web.Optimization
+
+<div class="container">
+    <a class="navbar-brand" href="#">LShop</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+            <li>
+                @Html.ActionLink("Home", "Index", "Home", new { area = "Home" }, new { @class = "nav-link" })
+            </li>
+            <li class="nav-item">
+                @Html.ActionLink("Smartphone", "Index", "Smartphone", new { area = "Smartphone" }, new { @class = "nav-link" })
+            </li>
+            <li class="nav-item">
+                @Html.ActionLink("Contact", "Contact", "Home", new { area = "Contact" }, new { @class = "nav-link" })
+            </li>
+
+
+            @if (User.IsInRole("ManageData"))
+    {
+
+        <li class="nav-item">
+            @Html.ActionLink("Create", "SmartphoneForm", "Data", new { area = "Create" }, new { @class = "nav-link" })
+        </li>
+
+        <li class="nav-item">
+            @Html.ActionLink("Edit && Delete", "ShowAllSmartphones", "Data", new { area = "Edit" }, new { @class = "nav-link" })
+        </li>
+
+
+}
+
+
+
+            <li class="nav-item">
+                @Html.ActionLink("Register", "Register", "Account", new { area = "Edit" }, new { @class = "nav-link" })
+            </li>
+
+            <li class="nav-item">
+                @Html.ActionLink("Log In", "Login", "Account", new { area = "Edit" }, new { @class = "nav-link" })
+            </li>
+
+        </ul>
+
+        @Html.Partial("_LoginPartial")
+
+    </div>
+</div>
+

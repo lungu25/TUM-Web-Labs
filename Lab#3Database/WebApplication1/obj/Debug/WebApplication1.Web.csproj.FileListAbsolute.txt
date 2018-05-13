@@ -1,0 +1,195 @@
+F:/Misanea/Solution1/WebApplication1/bin/WebApplication1.dll.config
+F:/Misanea/Solution1/WebApplication1/bin/WebApplication1.dll
+F:/Misanea/Solution1/WebApplication1/bin/WebApplication1.pdb
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/csc.exe
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/csc.exe.config
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/csc.rsp
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/csi.exe
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/csi.exe.config
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/csi.rsp
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/Microsoft.CodeAnalysis.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/Microsoft.CSharp.Core.targets
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/Microsoft.VisualBasic.Core.targets
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/Microsoft.Win32.Primitives.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.AppContext.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Collections.Immutable.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Console.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Diagnostics.Process.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Diagnostics.StackTrace.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.IO.Compression.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.IO.FileSystem.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.IO.FileSystem.DriveInfo.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.IO.FileSystem.Primitives.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.IO.Pipes.AccessControl.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.IO.Pipes.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Reflection.Metadata.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Security.AccessControl.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Security.Claims.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Security.Cryptography.Encoding.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Security.Cryptography.Primitives.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Security.Principal.Windows.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Text.Encoding.CodePages.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Threading.Thread.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.ValueTuple.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Xml.ReaderWriter.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Xml.XmlDocument.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Xml.XPath.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/System.Xml.XPath.XDocument.dll
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/vbc.exe
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/vbc.exe.config
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/vbc.rsp
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/VBCSCompiler.exe
+F:/Misanea/Solution1/WebApplication1/bin/roslyn/VBCSCompiler.exe.config
+F:/Misanea/Solution1/WebApplication1/bin/Antlr3.Runtime.dll
+F:/Misanea/Solution1/WebApplication1/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:/Misanea/Solution1/WebApplication1/bin/Microsoft.Web.Infrastructure.dll
+F:/Misanea/Solution1/WebApplication1/bin/Newtonsoft.Json.dll
+F:/Misanea/Solution1/WebApplication1/bin/System.Web.Helpers.dll
+F:/Misanea/Solution1/WebApplication1/bin/System.Web.Mvc.dll
+F:/Misanea/Solution1/WebApplication1/bin/System.Web.Optimization.dll
+F:/Misanea/Solution1/WebApplication1/bin/System.Web.Razor.dll
+F:/Misanea/Solution1/WebApplication1/bin/System.Web.WebPages.Deployment.dll
+F:/Misanea/Solution1/WebApplication1/bin/System.Web.WebPages.dll
+F:/Misanea/Solution1/WebApplication1/bin/System.Web.WebPages.Razor.dll
+F:/Misanea/Solution1/WebApplication1/bin/WebGrease.dll
+F:/Misanea/Solution1/WebApplication1/bin/Antlr3.Runtime.pdb
+F:/Misanea/Solution1/WebApplication1/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:/Misanea/Solution1/WebApplication1/bin/Newtonsoft.Json.xml
+F:/Misanea/Solution1/WebApplication1/bin/System.Web.Helpers.xml
+F:/Misanea/Solution1/WebApplication1/bin/System.Web.Mvc.xml
+F:/Misanea/Solution1/WebApplication1/bin/System.Web.Optimization.xml
+F:/Misanea/Solution1/WebApplication1/bin/System.Web.Razor.xml
+F:/Misanea/Solution1/WebApplication1/bin/System.Web.WebPages.xml
+F:/Misanea/Solution1/WebApplication1/bin/System.Web.WebPages.Deployment.xml
+F:/Misanea/Solution1/WebApplication1/bin/System.Web.WebPages.Razor.xml
+F:/Misanea/Solution1/WebApplication1/obj/Debug/WebApplication1.Web.csprojResolveAssemblyReference.cache
+F:/Misanea/Solution1/WebApplication1/obj/Debug/WebApplication1.Web.csproj.CoreCompileInputs.cache
+F:/Misanea/Solution1/WebApplication1/obj/Debug/WebApplication1.dll
+F:/Misanea/Solution1/WebApplication1/obj/Debug/WebApplication1.pdb
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/WebApplication1.dll
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/WebApplication1.pdb
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/Antlr3.Runtime.dll
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/Microsoft.Web.Infrastructure.dll
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/Newtonsoft.Json.dll
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/System.Web.Helpers.dll
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/System.Web.Mvc.dll
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/System.Web.Optimization.dll
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/System.Web.Razor.dll
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/System.Web.WebPages.Deployment.dll
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/System.Web.WebPages.dll
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/System.Web.WebPages.Razor.dll
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/WebGrease.dll
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/Antlr3.Runtime.pdb
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/Newtonsoft.Json.xml
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/System.Web.Helpers.xml
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/System.Web.Mvc.xml
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/System.Web.Optimization.xml
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/System.Web.Razor.xml
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/System.Web.WebPages.xml
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/System.Web.WebPages.Deployment.xml
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/bin/System.Web.WebPages.Razor.xml
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/obj/Debug/WebApplication1.Web.csprojResolveAssemblyReference.cache
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/obj/Debug/WebApplication1.Web.csproj.CoreCompileInputs.cache
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/obj/Debug/WebApplication1.dll
+/Users/lungumihail/Desktop/TUM-Web-Labs/Lab#2MVC/WebApplication1/obj/Debug/WebApplication1.pdb
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\WebApplication1.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\WebGrease.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\obj\Debug\WebApplication1.Web.csprojResolveAssemblyReference.cache
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\obj\Debug\WebApplication1.Web.csproj.CoreCompileInputs.cache
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\EntityFramework.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\EntityFramework.xml
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\WebApplication.BusinessLogic.dll
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\WebApplication.BusinessLogic.pdb
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\bin\WebApplication.BusinessLogic.dll.config
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\obj\Debug\WebApplication1.Migrations.CreateTables.resources
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\obj\Debug\WebApplication1.Web.csproj.GenerateResource.Cache
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\obj\Debug\WebApplication1.Migrations.InsertSmartphones.resources
+C:\Users\Vladdd\Desktop\Mihai[ Lab#3 ]\WebApplication1\obj\Debug\WebApplication1.Migrations.InsertSmartphone2.resources

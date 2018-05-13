@@ -1,0 +1,38 @@
+﻿@model IEnumerable<WebApplication.BusinessLogic.DbModels.Smartphone>
+
+@{
+    ViewBag.Title = "ShowAllSmartphones";
+}
+
+<br/>
+<br />
+<br/>
+
+<div class="col-10 offset-1">
+    <br/>
+    <h2>Below you will find all Smartphones on this site</h2>
+    <hr/>
+    <table class="table table-inverse table-hover my-3">
+        <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var smartphone in Model)
+        {
+            <tr>
+                <td> @smartphone.Id </td>
+                <td> @smartphone.Name </td>    
+                <td> @Html.ActionLink("Edit", "Update", "Data", smartphone, new {@class = "btn btn-link"})</td>
+                <td> @Html.ActionLink("Delete", "Delete", "Data", smartphone, new {@class = "btn btn-link"})</td>
+
+            </tr>
+        }
+        </tbody>
+    </table>
+
+</div>

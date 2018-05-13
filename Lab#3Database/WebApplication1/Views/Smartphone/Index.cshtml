@@ -1,0 +1,40 @@
+﻿@model IEnumerable<WebApplication.BusinessLogic.DbModels.Smartphone>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Product View";
+}
+
+<br />
+<br />
+<div class="container my-5">
+    <div class="row">
+
+        @foreach (var phone in Model)
+        {
+
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="card h-100">
+                    <img class="card-img-top" src="@phone.PicturePath.Replace("~", "" )" style="height: 300px; width: 250px" alt="@phone.Name">
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            @Html.ActionLink(@phone.Name, "Details", "Smartphone", phone, null)
+                        </h4>
+                        <h5>$@phone.Price</h5>
+                        <p class="card-text">
+                            CPU : @phone.CPU
+                            <br/>
+                            Camera : @phone.Camera
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+                    </div>
+                </div>
+            </div>
+
+        }
+
+    </div>
+    <!-- /.row -->
+</div>
